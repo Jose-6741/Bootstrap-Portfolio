@@ -10,3 +10,15 @@
     margin: auto;
     width: 200px;
 }
+
+.features h2 {
+    font-weight: bold;
+}
+
+hr {
+    margin: 0;
+    height:2px;
+    border:none;
+    color:#333;
+    background-color:#333;
+}
